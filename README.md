@@ -1,6 +1,14 @@
 # 欢迎来到 GSpaceKS 的主页
 
-## 不想学辣！(目前学校塞的）
+## 在哪找到我？
+
+[![Bilibili](https://img.shields.io/badge/哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/284005882)
+[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_44510325)
+
+## 关于名字？
+GS=搞事；Space=空间。因为有个学长跟我一起整活，所以就叫这个名字了（
+
+## 布想学辣！ToT (目前学校塞的）
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
